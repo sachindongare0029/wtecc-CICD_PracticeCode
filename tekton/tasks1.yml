@@ -1,0 +1,4 @@
+- name: cleanup
+  image: alpine
+  script: |
+    echo "Cleaning up..."
